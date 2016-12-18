@@ -12,6 +12,8 @@
  - Total Price
  - Days
 
+* Please be clear about any dependencies, versions required to successfully run the application
+
 * Feel free to contact us if you have any queries.
 
 ## Outline

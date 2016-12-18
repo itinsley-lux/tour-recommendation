@@ -1,0 +1,20 @@
+{
+  "name": "technical-task-tour-recommendation",
+  "version": "1.0.0",
+  "description": "## Specification * Please complete the following task in Javascript. Feel free to use any open-source packages or libraries. The task should output the results provided below.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "assert": "^1.4.1",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --recursive test --reporter spec"
+  },
+  "author": "Ian Tinsley <itinsley@gmail.com> (https://github.com/itinsley)",
+  "license": "ISC"
+}
